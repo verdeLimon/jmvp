@@ -11,8 +11,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import javax.swing.JTextField;
-import javax.swing.event.DocumentEvent.EventType;
 import org.unsch.annotation.Action;
 import org.unsch.annotation.MVP;
 import org.unsch.annotation.Model;
