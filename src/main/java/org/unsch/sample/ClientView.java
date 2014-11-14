@@ -23,9 +23,9 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
-import org.unsch.annotation.Action;
-import org.unsch.annotation.MVP;
-import org.unsch.annotation.Model;
+import org.unsch.core.annotation.Action;
+import org.unsch.core.annotation.MVP;
+import org.unsch.core.annotation.Model;
 
 
 /**

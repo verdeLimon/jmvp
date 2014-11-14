@@ -17,8 +17,8 @@
  */
 package org.unsch.sample;
 
-import org.unsch.impl.reflect.AppControllerReflect;
-import org.unsch.impl.reflect.AppControllerReflectFactory;
+import org.unsch.core.impl.reflect.AppControllerReflect;
+import org.unsch.core.impl.reflect.AppControllerReflectFactory;
 
 
 
